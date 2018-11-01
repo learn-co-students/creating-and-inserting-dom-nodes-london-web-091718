@@ -111,5 +111,5 @@ And it's gone!
 - [appendChild()](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 
 [openconsole]: https://developers.google.com/web/tools/chrome-devtools/console/
-
+s
 <p class='util--hide'>View <a href='https://learn.co/lessons/creating-and-inserting-dom-nodes'>Creating And Inserting Nodes</a> on Learn.co and start learning to code for free.</p>
